@@ -1,4 +1,4 @@
-package com.aydindemir;
+package com.aydindemir.Controller;
 
 import java.time.LocalDateTime;
 
